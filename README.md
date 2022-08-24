@@ -1,3 +1,15 @@
 # ansible_tutorial
 Learning ansible and git
 Starting with basic configuration and going deeper
+
+** basic**
+git clone https://github.com/sjstanev/ansible_tutorial.git
+git status
+
+**optional__
+git config --global user.name ""
+git config --global user.email ""
+
+git diff
+git add .
+git push origin main
